@@ -1,3 +1,5 @@
+// setup for beginner. just to visualize the output behind it.
+
 function contacts() {
     var name = "Maxwell Wright";
     var phone = "(0191) 719 6495";
